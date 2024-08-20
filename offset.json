@@ -6,4 +6,8 @@
     "CamManager": "0x460",
     "Mesh": "0x418",
     "BoneArray": "0x5D8"
+    "Health": "0x1B0"
+	"PlayerState": "0x3d8"
+	"TeamComponent": "0x610"
+	"DamageHandler": "0x9E8"
 }
