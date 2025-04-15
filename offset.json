@@ -1,10 +1,10 @@
 {
-    "FName": "0xB334080",
+    "FName": "0xB31B140",
     "UWorld": "0xC0",
     "AActor": "0xa0",
     "GameInst": "0x1A0",
     "CamManager": "0x460",
     "Mesh": "0x418",
     "BoneArray": "0x5C8",
-    "GWorld": "0x9E64AF0"
+    "GWorld": "0x9E45FF0"
 }
